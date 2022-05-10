@@ -26,3 +26,4 @@ This is only if you have extra time:
 * Make the top header 'sticky', so that when you scroll down the page it stays on top.
 * Use SCSS if possible
 * Clean and structured code is appreciated
+* Write meaningful commit message
